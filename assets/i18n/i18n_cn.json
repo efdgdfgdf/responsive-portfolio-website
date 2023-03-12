@@ -18,8 +18,9 @@
     "download":"查看简历",
     "skills__title":"技能",
     "skills__subtitle":"技术水平",
+    
+    "skills__title1":"前端开发",
     "skills__years":"*年工作经验",
-
     "skills__title2":"后端开发",
     "skills__years2":"*年工作经验",
 
